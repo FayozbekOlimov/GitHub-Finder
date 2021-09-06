@@ -197,7 +197,7 @@ input, button {
     }
 
     .search-input {
-        width: auto;
+        width: 260px;
     }
 
     .github-data, .github-repos {
